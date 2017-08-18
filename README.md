@@ -1,0 +1,1 @@
+Mala aplikacija, koristi custom adaptere za prikaz objekata u listi, intente za skakanje na druge aktivnosti i fragmente.
